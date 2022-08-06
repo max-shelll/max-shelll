@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.eduonix.com/assets/images/header_img/2020100401144812373.jpg))](
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://static.wixstatic.com/media/f63a2b_f0ca29a34f1149acbfe8d02feb36f74a~mv2.gif
 <h1 align="center">Hi 👋, I'm max_shelll</h1>
 <h3 align="center">A passionate c# developer</h3>
 (img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif")
