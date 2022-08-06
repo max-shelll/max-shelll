@@ -40,17 +40,11 @@
 
 ## 📊 My Github Stats
 
-<br/>
-    <img alt="max shelll's Github Stats" src="https://github-readme-stats.vercel.app/api?username=max-shelll&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
- <img alt="max shelll's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=max-shelll&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=max-shelll&show_icons=true&locale=en&layout=compact" alt="max-shelll" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=max-shelll&show_icons=true&locale=en" alt="max-shelll" /></p>
 
-<br/>
-<br/>
-
-<img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=max-shelll&" alt="max-shelll" /></p>
 
 <br/>
 <br/>
