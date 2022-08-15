@@ -57,7 +57,7 @@
 <p align="left">
 
 <a href = "https://www.instagram.com/max_shelll/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://t.me/Max_1287"><img src="https://img.icons8.com/color/344/telegram-app--v1.png"/></a>
+<a href = "https://t.me/Max_1287"><img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png"/></a>
     
 </p>
 
