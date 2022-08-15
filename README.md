@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://i.imgur.com/CrTAxTC.png" height="10%"/></a>
+<a href="#"><img width="100%" height="10%" src="https://i.imgur.com/CrTAxTC.png"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm max-shelll</h1>
 <h3 align="center">I'm a passionate C# Developer.</h3>
