@@ -57,6 +57,7 @@
 <p align="left">
 
 <a href = "https://www.instagram.com/max_shelll/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/max_shelll/"><img src="https://drive.google.com/file/d/1LNTOmcC_3tz7_r95xq15dJsm7pk3mVmf/view?usp=sharing"/></a>
     
 </p>
 
