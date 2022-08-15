@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/max-shelll)**
 
-- 📫 How to reach me **max-shelll@yandex.ru | [@Max_1287](https://t.me/Max_1287)*
+- 📫 How to reach me **max-shelll@yandex.ru | [@Max_1287](https://t.me/Max_1287)**
 
 - ⚡ Fun fact **I play games.**
 
