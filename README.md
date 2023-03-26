@@ -2,6 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm max-shelll</h1>
 <h3 align="center">I'm a passionate C# Developer.</h3>
 
+
 # 💫 About Me:
 🔭 I’m currently working on [Backend](https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core)<br>🌱 I’m currently learning [.NET](https://dotnet.microsoft.com/en-us/)<br>⚡ Fun fact **I play games**
 
