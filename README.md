@@ -8,7 +8,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/max_shelll) 
 <a href = "https://t.me/Max_1287"><img src="https://img.icons8.com/fluency/24/000000/telegram-app.png"/></a>
 
 # 💻 Tech Stack:
