@@ -41,6 +41,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img width="600" src="assets/packman" alt="packman" />
+</p>
 
 ###
