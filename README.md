@@ -4,21 +4,21 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="apachekafka logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="rabbitmq logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="grafana logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
 </div>
 
