@@ -42,7 +42,7 @@
 <br clear="both">
 
 <p align="center">
-  <img width="600" src="packman.svg" alt="packman" />
+  <img width="600" src="pacman.svg" alt="packman" />
 </p>
 
 ###
